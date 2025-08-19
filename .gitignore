@@ -1,0 +1,14 @@
+# 忽略视频和大文件目录
+video_storage/
+ffmpeg-master-latest-win64-gpl/
+
+# 忽略常见的大文件类型
+*.mp4
+*.zip
+*.exe
+
+# Python 缓存
+__pycache__/
+*.pyc
+*.pyo
+"# Ignore large files and folders"
